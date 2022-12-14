@@ -1,0 +1,8 @@
+.imagem{
+    background-image: url('../img/fotocapaecommerce.png');
+    background-repeat: no-repeat;
+    width: 50vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}

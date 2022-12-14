@@ -1,0 +1,11 @@
+.img{
+    background-image: url('../img/WIN_20221201_08_50_25_Pro.jpg');
+    background-repeat: no-repeat;
+    width: auto;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    justify-content: center;
+}

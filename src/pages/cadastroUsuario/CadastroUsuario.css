@@ -1,0 +1,21 @@
+.imagem2{
+    background-image: url('../img/energiaLimpa.jpg');
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos{
+    font-weight: bold !important;
+
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
